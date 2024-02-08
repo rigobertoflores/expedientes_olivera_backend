@@ -1,0 +1,35 @@
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\Crear Json Base datos Medica.exe.config
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\Crear Json Base datos Medica.exe
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\Crear Json Base datos Medica.pdb
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\Newtonsoft.Json.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Data.SqlClient.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\Newtonsoft.Json.xml
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Data.SqlClient.xml
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\obj\Debug\Crear Json Base datos Medica.csproj.AssemblyReference.cache
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\obj\Debug\Crear Json Base datos Medica.csproj.SuggestedBindingRedirects.cache
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\obj\Debug\Crear Json Base datos Medica.csproj.CoreCompileInputs.cache
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\obj\Debug\Crear Json Base datos Medica.csproj.CopyComplete
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\obj\Debug\Crear Json Base datos Medica.exe
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\obj\Debug\Crear Json Base datos Medica.pdb
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Buffers.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Memory.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Numerics.Vectors.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Text.Encodings.Web.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Text.Json.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.ValueTuple.dll
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Buffers.xml
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Memory.xml
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Numerics.Vectors.xml
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Text.Encodings.Web.xml
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Text.Json.xml
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Project\kathy\kathy\Crear Json Base datos Medica\Crear Json Base datos Medica\bin\Debug\System.ValueTuple.xml
